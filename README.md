@@ -16,11 +16,17 @@ Antes de executar o projeto, certifique-se de que você tenha o seguinte instala
 Siga os passos abaixo para executar o projeto:
 
 1 - Clone este repositório em seu ambiente local.
+
 2 - Abra o projeto com a sua IDE desejada.
+
 3 - Execute o arquivo "PrincipalComBusca.java".
+
 4 - No console, você poderá digitar o nome de um filme que deseja buscar e pressionar "Enter". O programa irá mostrar as informações do filme encontrado.
+
 5 - Você pode repetir o passo 4 quantas vezes desejar para buscar informações de outros filmes. Para encerrar o sistema, digite "sair" no console.
+
 6 - Ao encerrar o sistema, um arquivo chamado filmes.json será criado na raiz do projeto. Este arquivo conterá os filmes que foram buscados anteriormente, armazenados em formato JSON.
+
 
 ## Contribuições
 
