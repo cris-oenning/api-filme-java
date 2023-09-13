@@ -1,15 +1,14 @@
-![thumbnail-Formação Java (4)](https://user-images.githubusercontent.com/66698429/226751112-f79aaa28-16c9-4561-8a15-0ac62ec9cb44.png)
+# Consumo de API de filmes 
+
+Projeto de consumo de uma API de filmes OMDB para tratarmos as informações.
 
 
-# Java: consumindo uma API, gravando arquivos e lidando com erros
+## 🔨 Como utilizar
 
-Projeto desenvolvido no quarto curso da formação Java da Alura
+1 - Dar play no arquivo PrincipalComBusca.
 
+2 - No console você poderá digitar o filme que deseja e apertar enter.
 
-## 🔨 Objetivos do projeto
+3 - Poderá fazer quantas vezes quiser (quantos filmes quiser) até você digitar "sair" para encerrar o sistema.
 
-- Aprender a consumir uma API HTTP em Java;
-- Entender como receber e converter dados no formato JSON; 
-- Utilizar a biblioteca externa GSON para fazer serialização e desserialização de dados;
-- Lidar com erros e tratar exceções;
-- Conhecer o pacote java.io para manipulação de arquivos.
+4 - Ao encerrar o sistema, o programa criará na raiz do projeto um arquivo chamado filmes.json com os filmes que nós digitamos anteriormente
